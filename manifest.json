@@ -1,0 +1,152 @@
+{
+  "manifest_version": 3,
+  "name": "Neon Aurora OLED Theme",
+  "version": "1.0",
+  "description": "True-black OLED theme with a neon aurora new tab, neon tab and address bar text, and dark inactive tabs.",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/ntp_background.png"
+    },
+    "colors": {
+      "frame": [
+        0,
+        0,
+        0
+      ],
+      "frame_inactive": [
+        0,
+        0,
+        0
+      ],
+      "frame_incognito": [
+        0,
+        0,
+        0
+      ],
+      "frame_incognito_inactive": [
+        0,
+        0,
+        0
+      ],
+      "background_tab": [
+        34,
+        34,
+        34
+      ],
+      "background_tab_inactive": [
+        34,
+        34,
+        34
+      ],
+      "background_tab_incognito": [
+        34,
+        34,
+        34
+      ],
+      "background_tab_incognito_inactive": [
+        34,
+        34,
+        34
+      ],
+      "toolbar": [
+        0,
+        0,
+        0
+      ],
+      "tab_text": [
+        57,
+        255,
+        20
+      ],
+      "tab_background_text": [
+        0,
+        200,
+        200
+      ],
+      "tab_background_text_inactive": [
+        0,
+        140,
+        140
+      ],
+      "bookmark_text": [
+        255,
+        255,
+        0
+      ],
+      "toolbar_text": [
+        0,
+        255,
+        255
+      ],
+      "toolbar_button_icon": [
+        0,
+        255,
+        255
+      ],
+      "omnibox_background": [
+        0,
+        0,
+        0
+      ],
+      "omnibox_text": [
+        0,
+        255,
+        200
+      ],
+      "button_background": [
+        0,
+        0,
+        0
+      ],
+      "ntp_background": [
+        0,
+        0,
+        0
+      ],
+      "ntp_text": [
+        255,
+        255,
+        255
+      ],
+      "ntp_link": [
+        255,
+        0,
+        255
+      ],
+      "ntp_section": [
+        0,
+        0,
+        0
+      ],
+      "ntp_section_text": [
+        57,
+        255,
+        20
+      ],
+      "ntp_section_link": [
+        0,
+        255,
+        255
+      ],
+      "control_background": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.5,
+        1.0,
+        0.5
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  },
+  "icons": {
+    "128": "icon128.png"
+  }
+}
